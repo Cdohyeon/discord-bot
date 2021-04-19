@@ -1,0 +1,16 @@
+{
+  "name": "discordbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "r": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "comcigan-parser": "^0.2.0",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.10.0",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
